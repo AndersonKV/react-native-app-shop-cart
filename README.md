@@ -1,7 +1,7 @@
 # react-native-app-shop-cart
 
 
-
+app feito com react-native
 <p align="center">
   <img src="1.png"  width="260"/>
 
