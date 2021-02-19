@@ -1,7 +1,8 @@
 # react-native-app-shop-cart
 
 
-app feito com react-native
+app feito com react-native e typescript, funções de adicionar item ao localstorage e verificar no carrinho
+
 <p align="center">
   <img src="1.png"  width="260"/>
 
